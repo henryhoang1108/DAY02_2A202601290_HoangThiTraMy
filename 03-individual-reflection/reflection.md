@@ -9,9 +9,9 @@
 | Chọn candidate problem | Tham gia đánh giá các candidate theo actor, workflow, evidence, impact, khả năng làm trong lab và khả năng so sánh Rule / Workflow / Agent | Nhóm chọn được idea cải thiện tình trạng thông tin học tập bị phân mảnh|
 | Validation / research | Tìm hiểu giải pháp hiện tại của Google Classroom |  |
 | Workflow nhóm | Hỗ trợ rà soát current workflow và future workflow của bài toán | Workflow cuối thể hiện được bottleneck, human boundary và fallback |
-| Problem Statement | | Problem Statement v0/v1 cụ thể hơn và không coi AI là giải pháp mặc định |
+| Problem Statement | Hỗ trợ chỉnh Actor, Bottleneck, Impact, Success Metric, Boundary và AI intervention point | Problem Statement v0/v1 cụ thể hơn và không coi AI là giải pháp mặc định |
 | Rule / Workflow / Agent | Workflow giữ được boundary rõ: AI chỉ tổng hợp trong nguồn được phép, học viên kiểm tra link gốc, giảng viên/trợ giảng vẫn là owner của tài liệu và deadline. | Nhóm thống nhất chọn Workflow |
-| Decision | | Decision có scope, metric và rollback rõ ràng |
+| Decision | Cùng nhóm đề xuất sử dụng Workflow thay vì Agent | Decision có scope, metric và rollback rõ ràng |
 
 
 ---
