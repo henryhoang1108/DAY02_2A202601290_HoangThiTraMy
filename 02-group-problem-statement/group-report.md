@@ -3,13 +3,14 @@
 Case nhóm chọn: **Thông tin học tập phân mảnh trên Vlearn, Codelabs và Discord**
 
 ## Thành viên nhóm
-| STT | Họ và tên | Mã học viên | Vai trò trong nhóm |
-|-----|-----------|-------------|--------------------|
-| 1   | Trà My     | 2A202601290 | Nhóm trưởng |
-| 2   | Thế Hưng   | 2A202601822 | Thành viên |
-| 3   | Thành Vinh | 2A202602021 |Thành viên |
-| 4   | Hoàng Hưng | 2A202601908 |Thành viên |
-| 5   | Mai Phương |2A202601418 |Thành viên |
+
+| STT | Họ và tên | Mã học viên |
+|-----|-----------|-------------|
+| 1 | Trà My | 2A202601290 |
+| 2 | Thế Hưng | 2A202601822 |
+| 3 | Thành Vinh | 2A202602021
+| 4 | Hoàng Hưng | 2A202601908 |
+| 5 | Mai Phương |2A202601418 |
 
 ---
 
@@ -88,7 +89,7 @@ Nhóm dùng quick interview/poll nhỏ với học viên quen biết. Các số 
 
 | Nguồn | Số người / số mẫu | Tín hiệu xác nhận | Tín hiệu phản bác | Nhóm sửa problem thế nào |
 |---|---:|---|---|---|
-| Quick interview | Chưa thực hiện - 100 học viên | Xác nhận xem bao nhiêu học viên từng phải mở ít nhất 2-3 nguồn để tìm đủ lý thuyết, hướng dẫn thực hành, deadline hoặc câu trả lời cũ | Xem có bao nhiêu sinh viên không gặp vấn đề hoặc chỉ gặp vấn đề ở một số mục | Thu hẹp problem vào lúc học viên bắt đầu làm bài hoặc kiểm deadline, không nói chung chung "mọi thông tin học tập" |
+| Quick interview | Chưa thực hiện - Mục tiêu 100 học viên | Xác nhận xem bao nhiêu học viên từng phải mở ít nhất 2-3 nguồn để tìm đủ lý thuyết, hướng dẫn thực hành, deadline hoặc câu trả lời cũ | Xem có bao nhiêu sinh viên không gặp vấn đề hoặc chỉ gặp vấn đề ở một số mục | Thu hẹp problem vào lúc học viên bắt đầu làm bài hoặc kiểm deadline, không nói chung chung "mọi thông tin học tập" |
 | Mini poll trong lớp/nhóm chat | Chưa thực hiện - mục tiêu 80 phản hồi | Cần xem bao nhiêu học viên từng hỏi lại bạn/trợ giảng vì không chắc nguồn nào là mới nhất | Một số câu hỏi đến từ việc chưa đọc kỹ, không phải thiếu hệ thống | Thêm boundary: hệ thống chỉ tổng hợp nguồn chính thức, không thay học viên đọc nội dung |
 | Quan sát chat/trao đổi lớp | Một số thread lặp lại | Có câu hỏi lặp về link bài, deadline, yêu cầu nộp, vị trí tài liệu | Chưa có log định lượng đầy đủ | Metric cần đo bằng số câu hỏi lặp lại trong pilot, không dùng claim quá mạnh |
 
