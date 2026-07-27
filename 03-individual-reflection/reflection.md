@@ -7,7 +7,7 @@
 | Challenge bài của bạn khác | Đặt câu hỏi: Liệu đó có phải là pain-point thực sự không? Có cần thiết phải thêm tính năng đó không?| Phản biện để tránh chọn đề tài không đúng |
 | Gom trùng / cluster | Cùng nhóm phân loại candidate thành các nhóm như  học tập, FAQ, planning cá nhânm technical automation | Danh sách candidate rõ ràng hơn và dễ so sánh hơn |
 | Chọn candidate problem | Tham gia đánh giá các candidate theo actor, workflow, evidence, impact, khả năng làm trong lab và khả năng so sánh Rule / Workflow / Agent | Nhóm chọn được idea cải thiện tình trạng thông tin học tập bị phân mảnh|
-| Validation / research | Tìm hiểu giải pháp hiện tại của Google Classroom |  |
+| Validation / research | Tìm hiểu giải pháp hiện tại của Google Classroom | Nhóm nhận ra cần có giảng viên/ trợ giảng xác nhận lại thông tin |
 | Workflow nhóm | Hỗ trợ rà soát current workflow và future workflow của bài toán | Workflow cuối thể hiện được bottleneck, human boundary và fallback |
 | Problem Statement | Hỗ trợ chỉnh Actor, Bottleneck, Impact, Success Metric, Boundary và AI intervention point | Problem Statement v0/v1 cụ thể hơn và không coi AI là giải pháp mặc định |
 | Rule / Workflow / Agent | Workflow giữ được boundary rõ: AI chỉ tổng hợp trong nguồn được phép, học viên kiểm tra link gốc, giảng viên/trợ giảng vẫn là owner của tài liệu và deadline. | Nhóm thống nhất chọn Workflow |
