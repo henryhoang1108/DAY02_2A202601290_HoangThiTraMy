@@ -31,7 +31,7 @@ Case nhóm chọn: **Thông tin học tập phân mảnh trên Vlearn, Codelabs 
 | 9 | Mai Phương | Hệ thống chấm bài tự động hay báo lỗi chung chung  | Sinh viên CNTT, Học viên Online & Giảng viên  | Tự đọc từng dòng code mò lỗi không hỗ trợ (90 phút)  | F |
 | 10 | Mai Phương | Tên môn học viết tắt gây khó hiểu trên Website  | Học viên mới (User chính), Đội ngũ Tư vấn viên/Sales (Actor phụ).  | Phải nhắn tư vấn viên giải thích lại (10 phút/khách  | Tên môn học/khóa học viết tắt hoặc ghi theo mã nội bộ trên website làm người dùng mới bối rối không biết môn học dạy nội dung gì, dẫn đến bỏ đi hoặc tốn thời gian hỏi bộ phận tư vấn.  |
 | 11 | Thế Hưng | Tóm tắt ngữ cảnh & Gợi ý chuyên khoa | CSKH, Bệnh nhân | Bệnh nhân dừng nhắn 30-60 phút khiến CSKH phải lội lại lịch sử; bệnh nhân mô tả triệu chứng mơ hồ | Vướng rủi ro an toàn thông tin y tế và ranh giới tư vấn chuyên môn y khoa |
-| 12 | Mai Phương | Học viên không tìm thấy tài liệu học  | Học viên (User chính), Trợ giảng/TA (Actor phụ xử lý câu hỏi).  | Lội tin nhắn & Nhắn hỏi TA (15 phút/lần)  | Học viên mất quá nhiều thời gian tìm tài liệu bị rải │ │ rác trên Zalo/Drive/LMS, gây trễ bài tập và quá tải cho TA.  |
+| 12 | Mai Phương | Học viên không tìm thấy tài liệu học  | Học viên (User chính), Trợ giảng/TA (Actor phụ xử lý câu hỏi).  | Lội tin nhắn & Nhắn hỏi TA (15 phút/lần)  | Học viên mất quá nhiều thời gian tìm tài liệu bị rải rác trên Zalo/Drive/LMS, gây trễ bài tập và quá tải cho TA.  |
 
 ## Gom trùng / cluster
 
